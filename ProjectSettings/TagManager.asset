@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Complete
+  - Dead Zone
+  - Binhi
+  - Bungisngis
+  - Nuno
+  - Boss Bungisngis
+  - Rock
+  - Ground
+  - CheckPoint
+  - FallGround
+  - Moving platform
+  - Destructible
+  - Boss Kapre
+  - Kapre
+  - Mob
+  - Tiyanak
+  - Portal1
+  - Portal2
+  - Boss Tiktik
+  - DestructibleVine
+  - Bawang
+  - Tikbalang
+  - Manananggal
+  - Cornick
+  - Batibat
+  - Page
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - Environment
+  - Foregound
+  - first layer
+  - Enemy
+  - Confiner
+  - Fog
+  - Ignore Player
+  - Boxes
+  - GroundNewLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 765116385
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer7
+    uniqueID: 3854770947
+    locked: 0
+  - name: Layer6
+    uniqueID: 4071328531
+    locked: 0
+  - name: Layer5
+    uniqueID: 2233033177
+    locked: 0
+  - name: Layer4
+    uniqueID: 1399943869
+    locked: 0
+  - name: Layer 3
+    uniqueID: 3950796739
+    locked: 0
+  - name: Layer 2
+    uniqueID: 1712013829
+    locked: 0
+  - name: leyer1
+    uniqueID: 422920407
+    locked: 0
+  - name: bg Layer
+    uniqueID: 940237555
+    locked: 0
+  - name: Environment
+    uniqueID: 382586071
+    locked: 0
+  - name: Ground TIles
+    uniqueID: 3396705751
+    locked: 0
+  - name: fog layer1
+    uniqueID: 3141282153
+    locked: 0
+  - name: objectsback
+    uniqueID: 164592925
+    locked: 0
+  - name: fog layer2
+    uniqueID: 1563993743
+    locked: 0
+  - name: floor layer
+    uniqueID: 3845040181
+    locked: 0
+  - name: obstaclelayerback
+    uniqueID: 2507609541
+    locked: 0
+  - name: Character
+    uniqueID: 450850571
+    locked: 0
+  - name: obastaclesLayer 10
+    uniqueID: 2275203239
+    locked: 0
+  - name: Material
+    uniqueID: 577805433
+    locked: 0
+  - name: particles
+    uniqueID: 2864652673
+    locked: 0
+  - name: foregroundLayer 9
+    uniqueID: 413562241
+    locked: 0
+  - name: Mistfront
+    uniqueID: 656263049
+    locked: 0

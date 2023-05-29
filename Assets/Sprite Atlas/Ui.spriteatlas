@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Ui
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 8192
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: f3ba4a36d6a79964a8899930946391fd, type: 3}
+    - {fileID: 102900000, guid: 7e1c7ba5c6fbe3941ab26a894e7b1f75, type: 3}
+    - {fileID: 102900000, guid: fc107d91dfb2d3e439923903be03189d, type: 3}
+    - {fileID: 102900000, guid: 0f4100ac11e896147b191cf8e39a5bc9, type: 3}
+    - {fileID: 102900000, guid: 42ef28f13f02f8241ad0b4950a261931, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 037e2120123a4614c9b55810f5244750, type: 3}
+  - {fileID: 21300000, guid: 8ac90240ae1053c4aa363837328d546c, type: 3}
+  - {fileID: 21300000, guid: b107f240efc7d6d4f8896d48abd6d313, type: 3}
+  - {fileID: 21300000, guid: 06990bd01bd00a448b0e047f8ea1ec41, type: 3}
+  - {fileID: 21300000, guid: c8d21fd0ae1cf1a4d87ab6757d15ca4e, type: 3}
+  - {fileID: 21300000, guid: bc7e95011b4cb774087744f48a28a0ab, type: 3}
+  - {fileID: 21300000, guid: aa239e21f2a267d4aa668240ff2dcd27, type: 3}
+  - {fileID: -1663171796, guid: 7be0ce21b353abc45b41612e04fbade9, type: 3}
+  - {fileID: 808003940, guid: 7be0ce21b353abc45b41612e04fbade9, type: 3}
+  - {fileID: 293443960, guid: 7be0ce21b353abc45b41612e04fbade9, type: 3}
+  - {fileID: 320567734, guid: 7be0ce21b353abc45b41612e04fbade9, type: 3}
+  - {fileID: 21300000, guid: 3310c1b1e414e7c4db1a536a92fd8df0, type: 3}
+  - {fileID: 21300000, guid: ad06d4b1dff73734ea7511ef5829c317, type: 3}
+  - {fileID: 21300000, guid: 298b1bc17b531cb4b81dd41b8768718d, type: 3}
+  - {fileID: 21300000, guid: aa31a552f58775b47b7e998b5c8df672, type: 3}
+  - {fileID: 21300000, guid: 82f8d06238c7e6e4e83805f0a9b6d63a, type: 3}
+  - {fileID: 21300000, guid: 901b198270ff9984085f5203c4661112, type: 3}
+  - {fileID: 21300000, guid: 784aeff324739a645afdaf1e4eb147ad, type: 3}
+  - {fileID: 21300000, guid: 71402f64e7ecc384da8aeba3f8f0037a, type: 3}
+  - {fileID: 21300000, guid: 91d7a825ab44b5d46a1ffb60285edf19, type: 3}
+  - {fileID: 21300000, guid: ff1f289529b430349bc3ae936772b3e6, type: 3}
+  - {fileID: 21300000, guid: 0c684995ff37dca40897796bf1889a51, type: 3}
+  - {fileID: 21300000, guid: dd4519a50a15e0f4ea117d0ced5dba8c, type: 3}
+  - {fileID: 21300000, guid: fc2fac26d75bb604b802c74e8245866e, type: 3}
+  - {fileID: 21300000, guid: 469b9f5632277554d9e8e7795fb5771d, type: 3}
+  - {fileID: 21300000, guid: 57c09e766e4a3544b986d32433a10269, type: 3}
+  - {fileID: 21300000, guid: 6af33707e5cc6ea45847bf8830d02744, type: 3}
+  - {fileID: 21300000, guid: fce23a47cc2060745a12c28cf44c66fb, type: 3}
+  - {fileID: 21300000, guid: 0dad97973c2192043bfc6f3c52e504cd, type: 3}
+  - {fileID: 21300000, guid: 3d5bcdf757b9f214c8938a3a2cd3ba21, type: 3}
+  - {fileID: 21300000, guid: 68a8631820e475a459bd2c81fb20c233, type: 3}
+  - {fileID: 21300000, guid: 1e649a38316fd9d47a1f154ac7c4ec7f, type: 3}
+  - {fileID: 21300000, guid: ec3bb5981df32e14da278ef91e4ee11e, type: 3}
+  - {fileID: 21300000, guid: 7e0470f85b20ac541862e33d68ad3ed8, type: 3}
+  - {fileID: 21300000, guid: 6c623419a641cb044af27217ea109fd0, type: 3}
+  - {fileID: 21300000, guid: d73a6d5a10d4e4748bf1db9b9a4c1c98, type: 3}
+  - {fileID: 21300000, guid: 3a8ba3caf638f4642a76afc6ab34d7f5, type: 3}
+  - {fileID: 21300000, guid: c21746da7e220e642a947735ce5bcc55, type: 3}
+  - {fileID: 21300000, guid: ff12072b44989f64bb64e19030dc84dd, type: 3}
+  - {fileID: 21300000, guid: 63e89f3be162d844d9acc7795be83eee, type: 3}
+  - {fileID: 21300000, guid: 52e1109b31945524b92c918ba95a3558, type: 3}
+  - {fileID: 21300000, guid: 963198aba8891024b9aa1a9f73704f9c, type: 3}
+  - {fileID: 21300000, guid: 39600efbedad47a40b5f81d662915df8, type: 3}
+  - {fileID: 21300000, guid: 930f030cc2d7532429b4731a208e4abd, type: 3}
+  - {fileID: 21300000, guid: 460ea61c70aa512419484482e5b6969a, type: 3}
+  - {fileID: 21300000, guid: 5b4ec6dc3877ba24bbb386b31e24b115, type: 3}
+  - {fileID: 21300000, guid: c9e1ce4d08c26334680edb884d53103f, type: 3}
+  - {fileID: 21300000, guid: 1872b89d7d48d7e4c86e927fd1043e0c, type: 3}
+  - {fileID: 21300000, guid: 16440e0ec5a5acb408ebb636f9ba46f5, type: 3}
+  - {fileID: 21300000, guid: 780856ae64717484fada39ec2f6e0ba3, type: 3}
+  - {fileID: 21300000, guid: 613c54be11fe6ff47940ad662ea0623e, type: 3}
+  - {fileID: 21300000, guid: 1b0d15beb4bc43b4a960d6de5285c351, type: 3}
+  - {fileID: 21300000, guid: 0f40223ffc1c48d4e9a354e58cf55d28, type: 3}
+  - {fileID: 21300000, guid: 14497e3fe0ecf674f98cf4b2a7d2eead, type: 3}
+  - {fileID: 21300000, guid: 2dd40d5f15be72f4eb776b9c1f78d3e6, type: 3}
+  - {fileID: 21300000, guid: 5448536f899dcb84a8ce2815d80773fe, type: 3}
+  - {fileID: 21300000, guid: 3701f8bf52bf8c84face1d6a52646e6b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - GULUGOD B
+  - HEALTH - MEDIUM
+  - head
+  - BUTTON - NORMAL ATTACK V3
+  - HEALTH - VERY LOW
+  - ORB B
+  - BUTTON - BRACELET
+  - bg ng inventory_2
+  - bg ng inventory_3
+  - bg ng inventory_0
+  - bg ng inventory_1
+  - BATUTA BUTTON (B)
+  - BUTTON - GEAR
+  - STAGE 3 (LEVEL 7-9)
+  - BUTTON - Outer
+  - LINE - WHITE
+  - HEALTH - NORMAL
+  - BACKGROUND OF LEVEL SELECTION
+  - CLOSE (X)- BLACK
+  - BAMBOO BUTTON (B)
+  - SIBUYAS B
+  - Circle
+  - STAGE 2 LEVEL 3
+  - SALT B
+  - HEALTHBAR
+  - STAGE 3 LEVEL 3
+  - ANALOG - OUTER
+  - Inventory background
+  - BUTTON - LEFT
+  - BUTTON - Inner
+  - STAGE 2 LEVEL 2
+  - STAGE 1 LEVEL 1
+  - BUTTON - INVENTORY V3
+  - BUTTON
+  - KAHOY BUTTON (B)
+  - BUTTON - POTION V3
+  - STAGE 2 (LEVEL 4-6)
+  - material background
+  - switch b
+  - STAGE 3 LEVEL 1
+  - BUTTON - SPECIAL ATTACK 2 V3
+  - STAGE 1 LEVEL 2
+  - STAGE 1 LEVEL 3
+  - BUTTON - AGIMAT V3
+  - STAGE 1 (LEVEL 1-3)
+  - SUMPIT BUTTON (B)
+  - STAGE 3 LEVEL 2
+  - ANALOG - INNER
+  - BASEBALL BAT BUTTON (B)
+  - STAGE 2 LEVEL 1
+  - CLOSE (X)- WHITE
+  - BUTTON - SPECIAL ATTACK 1 V3
+  - BOX ICON - WHITE
+  - BOX ICON - BLACK
+  - BUTTON - ALBULARYO V3
+  - LINE - BLACK
+  - BUTTON - JUMP V3
+  m_RenderDataMap: {}
+  m_Tag: Ui
+  m_IsVariant: 0

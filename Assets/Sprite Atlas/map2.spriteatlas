@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: map2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 8192
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: dc889f17ebfe5934899b81c558fa4abf, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 91357c00915a61641bc2cc6e0c298485, type: 3}
+  - {fileID: 21300000, guid: c2363a609ee859341bc3669a67b6de21, type: 3}
+  - {fileID: 21300000, guid: 16bcab602b31c1c43a0412045949666b, type: 3}
+  - {fileID: 21300000, guid: 159fd511c1ac7154faeacce7f4d562a7, type: 3}
+  - {fileID: 21300000, guid: 818bd9d1201209742bcd8d8f7dd157a0, type: 3}
+  - {fileID: 21300000, guid: 818ee9d1cb072b44ca31dc6f93704879, type: 3}
+  - {fileID: 21300000, guid: fbd8b1f1afe6d7648b01a21b7c514f42, type: 3}
+  - {fileID: 21300000, guid: f52f8e228f591c444b6e0a4ab1345413, type: 3}
+  - {fileID: 21300000, guid: d55acb6281168b1498f41fcf767bd9c1, type: 3}
+  - {fileID: 21300000, guid: a91e6563205daed409b565f087c0cdc3, type: 3}
+  - {fileID: 21300000, guid: 783b2024466f4b54bba734150715f525, type: 3}
+  - {fileID: 21300000, guid: 473cbe2465335bd44b8683b789ec6a99, type: 3}
+  - {fileID: 21300000, guid: 5cc45d153008ac3459fb59ee586050b3, type: 3}
+  - {fileID: 21300000, guid: b50815b5968af9b4fa80e8f2ef765d3c, type: 3}
+  - {fileID: 21300000, guid: fd17ca56810cc1041842872987f99ce2, type: 3}
+  - {fileID: 21300000, guid: c5eacd765f4084846807a51fb9c6d5d0, type: 3}
+  - {fileID: 21300000, guid: 48fc2c96ae4cf3643abb7dc8ce30603c, type: 3}
+  - {fileID: 21300000, guid: 70a4ada60e65ee34e973a95f4c71acdf, type: 3}
+  - {fileID: 21300000, guid: e746412867ae0f243b69906c05a41217, type: 3}
+  - {fileID: 21300000, guid: 8a820dd910f6db541bbebe8bc851e234, type: 3}
+  - {fileID: 21300000, guid: 721c259acb3cafb4c9adc5a6e9f3add3, type: 3}
+  - {fileID: 21300000, guid: 336d76ba8be3802488aee2ea70715cc5, type: 3}
+  - {fileID: -1275815548, guid: e1f6c2da6c470494aa5bf1d84b98b949, type: 3}
+  - {fileID: 79428215, guid: e1f6c2da6c470494aa5bf1d84b98b949, type: 3}
+  - {fileID: 21300000, guid: c4e9462ba86fc0d45a8839d1ef41e3e4, type: 3}
+  - {fileID: 21300000, guid: 426b492bec1e19f4791151c382ac7561, type: 3}
+  - {fileID: 21300000, guid: b6529a7b71ba7824b92380d4f20d36e0, type: 3}
+  - {fileID: 21300000, guid: a01327bb436a0944bb5e2dc09328ca40, type: 3}
+  - {fileID: 21300000, guid: e1702d6d8080c424e9f1e36ddaa7978d, type: 3}
+  - {fileID: 21300000, guid: ffa278edbee6f9545894be01963cf7bb, type: 3}
+  - {fileID: 21300000, guid: 8308001e1245a7a45acc19dc74cf4cdf, type: 3}
+  - {fileID: 21300000, guid: 99a1a09e19190bc49a6f832e45199cd6, type: 3}
+  - {fileID: 21300000, guid: 4d1c13fe7cdf8ba4dbec8f33d58f899b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - SHAFT - LEFT
+  - map2 bg1
+  - BRIDGE B
+  - floor2
+  - map2 bg3
+  - GRASS F
+  - BRIDGE A
+  - floor
+  - GRASS I
+  - HOUSE C
+  - Platform A
+  - map2 bg2
+  - SHAFT - RIGHT
+  - GRASS H
+  - GRASS J
+  - BRIDGE
+  - WALL ROCK B
+  - WALL ROCK A
+  - GRASS C
+  - GRASS E
+  - GRASS D (LEVEL OPENING)
+  - SHAFT - MIDDLE
+  - floor1_1
+  - floor1_0
+  - HOUSE D
+  - HOUSE B
+  - GRASS B
+  - GRASS G
+  - GRASS A
+  - GRASS K
+  - HOUSE PLATFORM A
+  - floor3
+  - WALL ROCK C
+  m_RenderDataMap: {}
+  m_Tag: map2
+  m_IsVariant: 0

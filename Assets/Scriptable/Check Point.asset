@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 722f5f74052b8cd4a828a47616ccf89b, type: 3}
+  m_Name: Check Point
+  m_EditorClassIdentifier: 
+  Position:
+  - level: 0
+    checkPoint: []
+  - level: 1
+    checkPoint:
+    - {x: 0, y: 0}
+    - {x: 266.11, y: -1.56}
+    - {x: 549.84, y: -1.56}
+    - {x: 1189.4, y: -1.34}
+    - {x: 1662.42, y: -1.34}
+  - level: 2
+    checkPoint:
+    - {x: 0, y: 0}
+    - {x: 426.15, y: -1.96}
+  - level: 3
+    checkPoint:
+    - {x: 0, y: 0}
+    - {x: -3.1, y: -5.91}
+    - {x: 664.1, y: 53.59}
+  - level: 4
+    checkPoint:
+    - {x: 0, y: 0}
+    - {x: 1175.81, y: -1.03}
+  - level: 5
+    checkPoint:
+    - {x: 0, y: 0}
+    - {x: 1171.84, y: -2.03}
+    - {x: 2627.11, y: -39.49}
+  - level: 6
+    checkPoint:
+    - {x: 0, y: 0}
+    - {x: 89.12, y: -2.51}
+    - {x: 429.3, y: -9.83}
+    - {x: 764.41, y: -16.95}
+  - level: 7
+    checkPoint:
+    - {x: 0, y: 0}
+    - {x: 190.69, y: 7.9}
+    - {x: 865.68, y: 18.4}
+    - {x: 1923.13, y: 12.76}
+  - level: 8
+    checkPoint:
+    - {x: 0, y: 0}
+    - {x: 956.33, y: 1.09}
+    - {x: 2008.41, y: -4.02}
+  - level: 9
+    checkPoint:
+    - {x: 0, y: 0}
+    - {x: 1047.77, y: 1.58}
+    - {x: 1545.29, y: 4.79}
+    - {x: 2036.95, y: 8.372}
+    - {x: 2511.306, y: 11.58}

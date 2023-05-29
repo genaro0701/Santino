@@ -1,0 +1,654 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &664183093522991125
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8582986221934004134}
+  - component: {fileID: 8069140695498919950}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8582986221934004134
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 664183093522991125}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9015141902270950285}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8069140695498919950
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 664183093522991125}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a4513a0df64cfc4c8a678e2d9c9cf64, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_LevelCheckPoint: {fileID: 11400000, guid: 5d6d6b6cf9102874ab0fdcda384e717d, type: 2}
+  m_Santino: {fileID: 0}
+  m_CurrentLevel: 3
+--- !u!1 &3723769486776538914
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3750902079662181937}
+  - component: {fileID: 6468740103277088289}
+  m_Layer: 0
+  m_Name: PlayerPrefs Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3750902079662181937
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3723769486776538914}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9015141902270950285}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6468740103277088289
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3723769486776538914}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5350cd7ae5781540b929eb467b009ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DontDestroyLoad: 0
+  m_IsSingletonLogsEnabled: 0
+  m_IntValue: 0
+  m_StringValue: 0
+--- !u!1 &6401071694780666468
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 725160861256933347}
+  - component: {fileID: 6218064585504967672}
+  m_Layer: 0
+  m_Name: TransitionManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &725160861256933347
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6401071694780666468}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 272.44974, y: -5.754883, z: -0.07184884}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9015141902270950285}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6218064585504967672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6401071694780666468}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb65067107c84c04e8e63b5f0b4bb5a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Frame:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  m_FrameCount: 3
+  currentLevel: 0
+  savedLevel: 0
+--- !u!1 &8344279054551169677
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5206525850433183283}
+  - component: {fileID: 8392695890291970271}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5206525850433183283
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8344279054551169677}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9015141902270950285}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8392695890291970271
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8344279054551169677}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d9450496447c9e4181d28435a080a47, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Sounds:
+  - name: Sound Effects
+    sounds:
+    - name: BGM
+      clip: {fileID: 8300000, guid: 7ad1a994812f1d04eac5df675ce634fb, type: 3}
+      volume: 0.75
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 1
+      mixerGroup: {fileID: -6354930954253403935, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+    - name: Button
+      clip: {fileID: 8300000, guid: 811a221dfd9a5da41a4862122202b999, type: 3}
+      volume: 0.75
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+    - name: Material
+      clip: {fileID: 8300000, guid: e92bdf9d7fe452642a6c97053e5d9e3e, type: 3}
+      volume: 0.2
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+    - name: GameOver
+      clip: {fileID: 8300000, guid: 512a9b3c70d4db54a8c57da5e5908064, type: 3}
+      volume: 0.5
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+    - name: LevelComplete
+      clip: {fileID: 8300000, guid: 3c6a0704d703547478b0a8c47197072a, type: 3}
+      volume: 0.5
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+    - name: RockDestroy
+      clip: {fileID: 8300000, guid: 76bcdbd38e1720e4a95706c03bb39f63, type: 3}
+      volume: 0.05
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+    - name: Destructable
+      clip: {fileID: 8300000, guid: 3698c001a4b99aa43aa3750a1c33b979, type: 3}
+      volume: 0.1
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+    - name: ItemCollect
+      clip: {fileID: 8300000, guid: d76c71e98617e1c41a5cdc490eb1bee1, type: 3}
+      volume: 0.5
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+  - name: Santino
+    sounds:
+    - name: SantinoIdle
+      clip: {fileID: 8300000, guid: 812598e5f4d603d468f3e84de319bb34, type: 3}
+      volume: 0.2
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+    - name: SantinoRun
+      clip: {fileID: 8300000, guid: 7d378d3bdfcc8d44386ade98dec460ea, type: 3}
+      volume: 0.5
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+    - name: SantinoJump
+      clip: {fileID: 8300000, guid: d956984a9fa1d814b96beeda9fb227bb, type: 3}
+      volume: 0.2
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+    - name: SantinoAttack
+      clip: {fileID: 8300000, guid: 2a1d7249da773ab44a4c24f914d81778, type: 3}
+      volume: 0.3
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+    - name: SantinoSkill
+      clip: {fileID: 8300000, guid: ae9c3ca66ad4ac04dac5e40929c9fa6f, type: 3}
+      volume: 0.3
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+    - name: SantinoUltimate
+      clip: {fileID: 8300000, guid: 723cc946b15505a4d90276d63eeaf3fb, type: 3}
+      volume: 0.3
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+    - name: SantinoHurt
+      clip: {fileID: 8300000, guid: 6870ee8fc0fc41d4ca3ac315e212aaad, type: 3}
+      volume: 0.05
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+    - name: SantinoDie
+      clip: {fileID: 8300000, guid: c915166adacabc540a2e6f5a3a21e9a4, type: 3}
+      volume: 0.3
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+  - name: Bungisngis
+    sounds:
+    - name: BungisngisIdle
+      clip: {fileID: 8300000, guid: 9a5a907362664f3449e281d76c4e86aa, type: 3}
+      volume: 0.1
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+    - name: BungisngisHalakhak
+      clip: {fileID: 8300000, guid: ec9a0e68182f9c347a65aabd5ff4c2d1, type: 3}
+      volume: 0.2
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 0}
+      source: {fileID: 0}
+    - name: BungisngisRun
+      clip: {fileID: 8300000, guid: 02a8539074a57d547bbf9e1629b4d88d, type: 3}
+      volume: 0.1
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+    - name: BungisngisAttack
+      clip: {fileID: 8300000, guid: 6da5703d729bb9c4a88e2b28227f8b02, type: 3}
+      volume: 0.1
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+    - name: BungisngisHurt
+      clip: {fileID: 8300000, guid: b79b91a54d0979b41ac8502b2ebf82a4, type: 3}
+      volume: 0.1
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+  - name: Boss Bungisngis
+    sounds:
+    - name: BossBungisngisRun
+      clip: {fileID: 8300000, guid: 9948682523cf36642a64eaf852a3728f, type: 3}
+      volume: 0.1
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+    - name: BossBungisngisDie
+      clip: {fileID: 8300000, guid: d805d54924bf8d34e9f97941c3787700, type: 3}
+      volume: 0.2
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+    - name: BossBungisngisRage
+      clip: {fileID: 8300000, guid: 7365934d0289d7f418ef071a67aa2428, type: 3}
+      volume: 0.2
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+  - name: Nuno
+    sounds:
+    - name: NunoIdle
+      clip: {fileID: 8300000, guid: face4a2ac42e14b4db907300baeea4d6, type: 3}
+      volume: 0.1
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+    - name: NunoAttack
+      clip: {fileID: 8300000, guid: bcbc40b3092006b4cb6a85843a427424, type: 3}
+      volume: 0.2
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+    - name: FallingRock
+      clip: {fileID: 8300000, guid: 60a8e55420c9c934c964d52bd146c6a2, type: 3}
+      volume: 0.2
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+  - name: White Lady
+    sounds:
+    - name: WhiteLadyIdle
+      clip: {fileID: 8300000, guid: d81bf608f2357a84a87e4f6ea0059f56, type: 3}
+      volume: 0.1
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+  - name: Kapre
+    sounds:
+    - name: KapreHalakhak
+      clip: {fileID: 8300000, guid: 8366dc9ba068fdc429881f2e39d6553e, type: 3}
+      volume: 0.2
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+    - name: KapreRun
+      clip: {fileID: 8300000, guid: 640d513b485f8894d96e8e6c02a10a19, type: 3}
+      volume: 0.1
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+    - name: KapreAttack
+      clip: {fileID: 8300000, guid: 661900fb817e55d458e6731367ac24c7, type: 3}
+      volume: 0.1
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+    - name: KapreDie
+      clip: {fileID: 8300000, guid: 60795c2b8196624428f49a040ed0aa6d, type: 3}
+      volume: 0.2
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+  - name: Mobs
+    sounds:
+    - name: MobWalk
+      clip: {fileID: 8300000, guid: 9d7d1c750578892429bc0124fc497a76, type: 3}
+      volume: 0.3
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+    - name: MobAttack
+      clip: {fileID: 8300000, guid: c7a7dfd32df06004e91e7c63d3641925, type: 3}
+      volume: 0.3
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+  - name: Tiyanak
+    sounds:
+    - name: TiyanakIyak
+      clip: {fileID: 8300000, guid: 1204a78578d351e4892506e8619fe843, type: 3}
+      volume: 0.3
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+  - name: Tiktik
+    sounds:
+    - name: TiktikLaugh
+      clip: {fileID: 8300000, guid: 28947e767df20294aa8e94f1045210f5, type: 3}
+      volume: 0.2
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+  - name: Tikbalang
+    sounds:
+    - name: TikbalangScream
+      clip: {fileID: 8300000, guid: 999f2a31f6d9cfd4fa258a3b8ef86bf0, type: 3}
+      volume: 0.75
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 0}
+      source: {fileID: 0}
+    - name: TikbalangRun
+      clip: {fileID: 8300000, guid: 2cf61b10ab375fc49afd463f8a14fdf6, type: 3}
+      volume: 0.75
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 0}
+      source: {fileID: 0}
+  - name: Mananangal
+    sounds:
+    - name: MananangalLaugh
+      clip: {fileID: 8300000, guid: 0521f1f6dbc04ba438155dd536156a0a, type: 3}
+      volume: 0.2
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+    - name: MananangalIdle
+      clip: {fileID: 8300000, guid: 8198131950bdc314d89361ed8fc251a0, type: 3}
+      volume: 0.1
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+  - name: Batibat
+    sounds:
+    - name: BatibatLaugh
+      clip: {fileID: 8300000, guid: 22d1899c57ca87444968df0b731833f1, type: 3}
+      volume: 0.2
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+    - name: BatibatWalk
+      clip: {fileID: 8300000, guid: 5c13a2ceab1a3a043864e0f880a1b18f, type: 3}
+      volume: 0.1
+      volumeVariance: 0.1
+      pitch: 1
+      pitchVariance: 0.1
+      loop: 0
+      mixerGroup: {fileID: 1824919343697269419, guid: 59fa77af2618cdf498a0de592f0a093f, type: 2}
+      source: {fileID: 0}
+--- !u!1 &9015141902270950284
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9015141902270950285}
+  - component: {fileID: 2609896073927725707}
+  m_Layer: 0
+  m_Name: Managers
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9015141902270950285
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9015141902270950284}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3750902079662181937}
+  - {fileID: 5206525850433183283}
+  - {fileID: 8582986221934004134}
+  - {fileID: 725160861256933347}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2609896073927725707
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9015141902270950284}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5353e73ce2496db42a13433edeb0917b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DontDestroyLoad: 0
+  m_IsSingletonLogsEnabled: 0
+  buttonManager: {fileID: 0}
+  uiManager: {fileID: 0}
+  inventoryManager: {fileID: 0}
+  audioManager: {fileID: 8392695890291970271}
+  craftManager: {fileID: 0}
+  levelLoader: {fileID: 0}
+  transitionManager: {fileID: 6218064585504967672}

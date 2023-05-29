@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Tikbalang
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 8192
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 296ae765e8c504648baaaed19795e8a8, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f059842083735534a9c8dec3d171d5a0, type: 3}
+  - {fileID: 21300000, guid: 5fbb0c50699b27f44bf6a3f70b24c780, type: 3}
+  - {fileID: 21300000, guid: 03032680b9c0a7841bb78b71c1fc2083, type: 3}
+  - {fileID: 21300000, guid: f97863113617a9a4b944578a628d437e, type: 3}
+  - {fileID: 21300000, guid: 8c15b4b135e59ec478b90b0bb3c718aa, type: 3}
+  - {fileID: 21300000, guid: 7182bb22a50689547bbbeb52f161e018, type: 3}
+  - {fileID: 21300000, guid: 01a94e2214591a949a98307b28caf954, type: 3}
+  - {fileID: 21300000, guid: 6950d77256f4e834590c888808d0157d, type: 3}
+  - {fileID: 21300000, guid: 45ee0192031a8b14fbf3ea2c26596a09, type: 3}
+  - {fileID: 21300000, guid: 980a21a2f92e63140a5c53b5becb83ac, type: 3}
+  - {fileID: 21300000, guid: dee039b2b45dd424bbd01faefe3e63dd, type: 3}
+  - {fileID: 21300000, guid: b5cedd13c74011047bd2548a217a5614, type: 3}
+  - {fileID: 21300000, guid: ee455d7364f7f8247a76931a84db54f7, type: 3}
+  - {fileID: 21300000, guid: 6eda7fd36cb6c244daa4df94117de4d6, type: 3}
+  - {fileID: 21300000, guid: e472bb54dd0e84749b6e748a6ca4413a, type: 3}
+  - {fileID: 21300000, guid: a8243274e8fac5b47842aeb85b4f3ec7, type: 3}
+  - {fileID: 21300000, guid: 42bb4984d84ebac418842dfdbee5ae47, type: 3}
+  - {fileID: 21300000, guid: 502508a453270d7489c2d9050f8ed9ab, type: 3}
+  - {fileID: 21300000, guid: f6c13915c1359534fa8806a4d7c6290c, type: 3}
+  - {fileID: 21300000, guid: 4b7916255243d0148bc8806f777fa893, type: 3}
+  - {fileID: 21300000, guid: bf7064655518bfc44a8ef6632020bb89, type: 3}
+  - {fileID: 21300000, guid: a51480952d986d041b0dd0f3e6bc625d, type: 3}
+  - {fileID: 21300000, guid: 4e0d82957297e124199441f468d77722, type: 3}
+  - {fileID: 21300000, guid: c0ac3f95df1f533419d3305dd91cc6e1, type: 3}
+  - {fileID: 21300000, guid: ba3121a568776904693cb5d6a1fd9293, type: 3}
+  - {fileID: 21300000, guid: cc42a85620ecbcd4c857728269a7ce2b, type: 3}
+  - {fileID: 21300000, guid: d81c75d6926d016418c7b1b15468f259, type: 3}
+  - {fileID: 21300000, guid: 65f9a5176caba1348be82a95419b0564, type: 3}
+  - {fileID: 21300000, guid: 383d14083ee39004297e8bffdab1cee2, type: 3}
+  - {fileID: 21300000, guid: 3081a31815df60e4faa2fbd22ec750d0, type: 3}
+  - {fileID: 21300000, guid: 96985c18de7c8064ca4af05d67554412, type: 3}
+  - {fileID: 21300000, guid: 129fe5887643764478960b5fd6ca72d7, type: 3}
+  - {fileID: 21300000, guid: f73568a8f71f1884bb50f6ee5edc96b3, type: 3}
+  - {fileID: 21300000, guid: dee2f8b84f9d6b647809d0e7a2a3477d, type: 3}
+  - {fileID: 21300000, guid: a2b5ea192bc7b9243af88f275b8277f2, type: 3}
+  - {fileID: 21300000, guid: 1c68da29ccc736943a2bdfd32fd1b136, type: 3}
+  - {fileID: 21300000, guid: dc9738395a305ac4cbb51fd1e9f0dcf2, type: 3}
+  - {fileID: 21300000, guid: fdca4a6992632604eb4d58fa3ef1cea9, type: 3}
+  - {fileID: 21300000, guid: 38e9c67995422044eb4e157cc57b3586, type: 3}
+  - {fileID: 21300000, guid: be2b37c9af91d4d42b198ebe2b7d11ca, type: 3}
+  - {fileID: 21300000, guid: 1bf4200aa73b31e4ca9c8a22ffa401fb, type: 3}
+  - {fileID: 21300000, guid: 7989800a8725ed245836c713ca0c638d, type: 3}
+  - {fileID: 21300000, guid: 5c8fde0a6a587934e86d106257062cce, type: 3}
+  - {fileID: 21300000, guid: 68cabd2a84eb7bb4c9ce9fcc43580bcc, type: 3}
+  - {fileID: 21300000, guid: 625e9a3a150189241bb29f66ddd5066d, type: 3}
+  - {fileID: 21300000, guid: 85fbbf3a2416f38499fc31aa5a5c0b13, type: 3}
+  - {fileID: 21300000, guid: af1c050ba1c61d84fb3a253c5b811a8b, type: 3}
+  - {fileID: 21300000, guid: fe0b085be2c4d91489d317cb7ff48fcd, type: 3}
+  - {fileID: 21300000, guid: f33b5b8bbdb12294e9b0e1eb628d8256, type: 3}
+  - {fileID: 21300000, guid: e9c38d8b9c99bb74a979b8b2373c3d9c, type: 3}
+  - {fileID: 21300000, guid: 56819b2c953f73c4c8246f0fb159a260, type: 3}
+  - {fileID: 21300000, guid: 44e8823ceaa9f4d4c901b2c181c57599, type: 3}
+  - {fileID: 21300000, guid: a41d2b3cc65d40645a857f6081403350, type: 3}
+  - {fileID: 21300000, guid: fe34049c9dd6dc34095be64bfe2ef73f, type: 3}
+  - {fileID: 21300000, guid: f0144bacd0df8de478b12529031cc3eb, type: 3}
+  - {fileID: 21300000, guid: 487547bc0e9caad469a122f63656e26b, type: 3}
+  - {fileID: 21300000, guid: eb10f9dc92fa1144fa3e36997c7c98e9, type: 3}
+  - {fileID: 21300000, guid: 3b8819fca3283ef4a9c92cd1493b21c0, type: 3}
+  - {fileID: 21300000, guid: b318ad1ed22040a47be5886f90e69151, type: 3}
+  - {fileID: 21300000, guid: f289502ee5b616b459a9d50f7b0508fd, type: 3}
+  - {fileID: 21300000, guid: 5b87b5cef3be261448c3df28cb75fd86, type: 3}
+  - {fileID: 21300000, guid: 654f35af9f5fd9340ba392ac9283fea0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - tikabalang_00078
+  - tikabalang_00062
+  - tikabalang_00071
+  - tikabalang_00069
+  - tikabalang_00077
+  - tikabalang_00002
+  - tikabalang_00067
+  - tikabalang_00061
+  - tikabalang_00085
+  - tikabalang_00015
+  - tikabalang_00023
+  - tikabalang_00087
+  - tikabalang_00008
+  - tikabalang_00081
+  - tikabalang_00076
+  - tikabalang_00004
+  - tikabalang_00083
+  - tikabalang_00020
+  - tikabalang_00025
+  - tikabalang_00013
+  - tikabalang_00065
+  - tikabalang_00080
+  - tikabalang_00026
+  - tikabalang_00001
+  - tikabalang_00090
+  - tikabalang_00018
+  - tikabalang_00060
+  - tikabalang_00024
+  - tikabalang_00070
+  - tikabalang_00074
+  - tikabalang_00014
+  - tikabalang_00011
+  - tikabalang_00021
+  - tikabalang_00073
+  - tikabalang_00007
+  - tikabalang_00029
+  - tikabalang_00079
+  - tikabalang_00064
+  - tikabalang_00016
+  - tikabalang_00000
+  - tikabalang_00086
+  - tikabalang_00088
+  - tikabalang_00028
+  - tikabalang_00003
+  - tikabalang_00075
+  - tikabalang_00009
+  - tikabalang_00066
+  - tikabalang_00005
+  - tikabalang_00006
+  - tikabalang_00012
+  - tikabalang_00082
+  - tikabalang_00010
+  - tikabalang_00089
+  - tikabalang_00072
+  - tikabalang_00068
+  - tikabalang_00022
+  - tikabalang_00063
+  - tikabalang_00091
+  - tikabalang_00084
+  - tikabalang_00019
+  - tikabalang_00017
+  - tikabalang_00027
+  m_RenderDataMap: {}
+  m_Tag: Tikbalang
+  m_IsVariant: 0

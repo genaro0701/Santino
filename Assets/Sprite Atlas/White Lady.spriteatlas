@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: White Lady
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ac8ebd4ce10c1d947992766f2c23b932, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 825aa6606fc0c76468f65b288a8fc697, type: 3}
+  - {fileID: 21300000, guid: af9d8fb022d530448947ea955e6c55bd, type: 3}
+  - {fileID: 21300000, guid: 386055d071fcc5642917523bf2bb0949, type: 3}
+  - {fileID: 21300000, guid: 165840113a563604687af798cdefec26, type: 3}
+  - {fileID: 21300000, guid: 87b0a8914c8dc8d46a1e2c663eb5ee62, type: 3}
+  - {fileID: 21300000, guid: 8c319f42d9f16054bbe2bd7ca0c7f0c4, type: 3}
+  - {fileID: 21300000, guid: 4f2a81038f1183d4f95c6806233f6c64, type: 3}
+  - {fileID: 21300000, guid: 9d8cbd438ff1053498b829cc2357453b, type: 3}
+  - {fileID: 21300000, guid: 4c1d3ba36d5687448988cdcf39a72634, type: 3}
+  - {fileID: 21300000, guid: 327cc5b39c2175b448d40f3c7a22c370, type: 3}
+  - {fileID: 21300000, guid: 575e63442470cb44e8497af0e11cccb7, type: 3}
+  - {fileID: 21300000, guid: d4c4de75e19f67c43bd78c849f491776, type: 3}
+  - {fileID: 21300000, guid: bf4d1d95bbad1fc45bbdd79b908719f9, type: 3}
+  - {fileID: 21300000, guid: ec966f170b1e5a541be0e0788f600179, type: 3}
+  - {fileID: 21300000, guid: 80c2c83739e0df34bbd5512f571e762f, type: 3}
+  - {fileID: 21300000, guid: 03aba1770d0eaef49b050f140346cf3a, type: 3}
+  - {fileID: 21300000, guid: 99892d5986196ca449a817a09da6e6a1, type: 3}
+  - {fileID: 21300000, guid: c5be13cb9b1d03c4ba378c6db1ba98ad, type: 3}
+  - {fileID: 21300000, guid: 9870f3fb1a937b3488268924f076264e, type: 3}
+  - {fileID: 21300000, guid: 9c435dfbed5b6cc4c8a79f8a3b1b45ff, type: 3}
+  - {fileID: 21300000, guid: 8f224bacfa758de4487726f96aad95bb, type: 3}
+  - {fileID: 21300000, guid: 189571dc4919b9e4f96b44811d80dcc1, type: 3}
+  - {fileID: 21300000, guid: 0ca4490dc4f11c04ebdcb08172535252, type: 3}
+  - {fileID: 21300000, guid: 0a49b73d9e2a70f48b60e7e90c786211, type: 3}
+  - {fileID: 21300000, guid: 9fdf0c6ded5b33c41b8c8d87b3612d1f, type: 3}
+  - {fileID: 21300000, guid: 7a3534bdd246f0440bf93d45ce8615cd, type: 3}
+  - {fileID: 21300000, guid: fcb21aee5ac29cc418b90aa0462fd13b, type: 3}
+  - {fileID: 21300000, guid: 3677780f1c650f14fa6f05e062168088, type: 3}
+  - {fileID: 21300000, guid: 58d2685fa028bd44f88b283333e5fb20, type: 3}
+  - {fileID: 21300000, guid: 350cee9f89987bf48b31987f9ac3f76b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - white lady_00013
+  - white lady_00024
+  - white lady_00003
+  - white lady_00010
+  - white lady_00028
+  - white lady_00012
+  - white lady_00007
+  - white lady_00019
+  - white lady_00008
+  - white lady_00020
+  - white lady_00011
+  - white lady_00027
+  - white lady_00016
+  - white lady_00023
+  - white lady_00004
+  - white lady_00006
+  - white lady_00001
+  - white lady_00009
+  - white lady_00029
+  - white lady_00026
+  - white lady_00002
+  - white lady_00018
+  - white lady_00015
+  - white lady_00025
+  - white lady_00021
+  - white lady_00014
+  - white lady_00022
+  - white lady_00000
+  - white lady_00005
+  - white lady_00017
+  m_RenderDataMap: {}
+  m_Tag: White Lady
+  m_IsVariant: 0

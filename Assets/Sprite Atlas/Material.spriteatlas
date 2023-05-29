@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Material
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 8192
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 9d8f0e2a1a52a214aa9f932ca239b3a1, type: 3}
+    - {fileID: 102900000, guid: b6ec2c79c1b3b6e4aa51ed34f90bb73e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: cd4f07d00e3b9984babf2ee23e109bfa, type: 3}
+  - {fileID: 21300000, guid: 449757f1fe301e747a888252d1f01253, type: 3}
+  - {fileID: 21300000, guid: dbf570c2dce44b244b61f5d7ff9985f5, type: 3}
+  - {fileID: 21300000, guid: 0758b8c2ca9f1ac4385dfd06b1b05358, type: 3}
+  - {fileID: 21300000, guid: 0c9491a49e365c04894d81a7818a55a9, type: 3}
+  - {fileID: 21300000, guid: fa0bf8a42b8821f4692d91c7d2461e77, type: 3}
+  - {fileID: 21300000, guid: 4437f9d401abdeb4e9fc88745e616317, type: 3}
+  - {fileID: 21300000, guid: 392e8e1568d66024a860658d6aed4012, type: 3}
+  - {fileID: 21300000, guid: 84b90a8734bf74443852c73f8ea912a1, type: 3}
+  - {fileID: 21300000, guid: d22baa884a7383946b8402ea897617b8, type: 3}
+  - {fileID: 21300000, guid: 28d5adc945959384b9c325591c2007c3, type: 3}
+  - {fileID: 21300000, guid: e9d9a43ab8fba4647a4e089b351f6609, type: 3}
+  - {fileID: 21300000, guid: 055b3f3b7417ef0409a4c0da1295622d, type: 3}
+  - {fileID: 21300000, guid: 801122abed5bd8845804cf69aba1aa9c, type: 3}
+  - {fileID: 21300000, guid: c632282c0c229474a824aaf687b2ae9f, type: 3}
+  - {fileID: 21300000, guid: 12b20f2c6caaaca4dae9a69ab5c73876, type: 3}
+  - {fileID: 21300000, guid: b33955ac9a2e2854697d2fb70b48a297, type: 3}
+  - {fileID: 21300000, guid: 55359cbc93e70f24cb808219de7b1a1c, type: 3}
+  - {fileID: 21300000, guid: 41b9b2cc544ca4e47b5d1bb2ad889a29, type: 3}
+  - {fileID: 21300000, guid: aeda872d119c49a489e035272053b5f4, type: 3}
+  - {fileID: 21300000, guid: 0b800f3e92f62264c83d067c53b66673, type: 3}
+  - {fileID: 21300000, guid: b71d608ef3af82f48a5deb1a0aa6a3da, type: 3}
+  - {fileID: 21300000, guid: 5fdf9e8e455d84343bd7c2f3ff77a063, type: 3}
+  - {fileID: 21300000, guid: 24deff9ed12a7c1458b93c74c74d6c4b, type: 3}
+  - {fileID: 21300000, guid: 7059e5de12079344bb5b6eececf83c00, type: 3}
+  - {fileID: 21300000, guid: 07b4b31f90be42e47aab1657393947bd, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - pilak - white
+  - GINSENG - FOR BLACK
+  - WHITE LADY - BW
+  - BUNGISNGIS - BW
+  - TIKBALANG - BW
+  - MANANANGGAL - BW
+  - BATIBAT - BW
+  - Langis _ white
+  - Baging - white
+  - BRACELET
+  - AGIMAT
+  - Binhi
+  - gulugod
+  - SIBUYAS
+  - SALT
+  - Gensing - white
+  - ORB
+  - Baging - For Black
+  - TIKTIK - BW
+  - TIYANAK - BW
+  - NUNO SA PUNSO - BW
+  - page
+  - COCONUT OIL
+  - KAPRE - BW
+  - PILAK OR BRONZE - FOR BLACK
+  - LANGIS - FOR BLACK
+  m_RenderDataMap: {}
+  m_Tag: Material
+  m_IsVariant: 0

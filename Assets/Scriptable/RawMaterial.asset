@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd97d51f5acb1eb499a7f2fd5adff3b8, type: 3}
+  m_Name: RawMaterial
+  m_EditorClassIdentifier: 
+  materials:
+  - materialName: Langis ng niyog
+    price: 5
+    craftQuantity: 0
+    icon: {fileID: 21300000, guid: 5fdf9e8e455d84343bd7c2f3ff77a063, type: 3}
+    info: "Ang langis ng niyog ay nagsisilbi bilang isa sa mga pinagkukuhaan o pinanggagalingan
+      ng hilaw na materyales na siyang ginagamit sa iba't ibang bagay o pangangailangan.\r"
+  - materialName: Ugat
+    price: 5
+    craftQuantity: 0
+    icon: {fileID: 21300000, guid: 12b20f2c6caaaca4dae9a69ab5c73876, type: 3}
+    info: "Ito ay napapabilang sa \"panax\" o mas kilala bilang halamang ginagamit
+      ng pangkalahataan sa tradisyonal na medisina.\r"
+  - materialName: Baging
+    price: 10
+    craftQuantity: 0
+    icon: {fileID: 21300000, guid: 84b90a8734bf74443852c73f8ea912a1, type: 3}
+    info: "ay isang uri ng halaman na mahaba at mayroong payat na mga tangkay. Ito'y
+      nakapulupot, gumagapang sa lupa o umaakyat na paikot-ikot na siyang naka konekta
+      sa ibang bahaging katawang bagay. Gayunpaman, maaari itong magbigay ng proteksyon
+      o lilim habang ginagamit naman ito ng iilang Albularyo sa paggawa ng mga agimat.\r"
+  - materialName: Tanso
+    price: 10
+    craftQuantity: 0
+    icon: {fileID: 21300000, guid: cd4f07d00e3b9984babf2ee23e109bfa, type: 3}
+    info: "Karaniwang ginagamit sa paglikha ng mga palamuti kasama ng mga iba pang
+      uri ng bato. Ang tanso ay isa sa mga importanteng sangkap na ginagamit ng Albularyo
+      upang makagawa ng mga agimat.\r"
+  - materialName: Langis
+    price: 6
+    craftQuantity: 2
+    icon: {fileID: 21300000, guid: 392e8e1568d66024a860658d6aed4012, type: 3}
+    info: "Isang tradisyonal na gamot na binubuo ng iba't ibang sangkap. Karaniwang
+      dinadasalan o ritwal ang mga ito upang maging epektibo.\r"
+  - materialName: Agimat
+    price: 0
+    craftQuantity: 4
+    icon: {fileID: 21300000, guid: 28d5adc945959384b9c325591c2007c3, type: 3}
+    info: "Mas kilala bilang anting-anting ay karaniwang ginagawa upang magbigay
+      ng proteksyon o sakit sa isang tao. Ang paggawa ng anting-anting ay parte ng
+      kultura ng Pilipinas hinggil sa mga alamat. Maaari itong gamitin sa mahika
+      o pangkukulam.\r"
+  - materialName: Page
+    price: 0
+    craftQuantity: 0
+    icon: {fileID: 21300000, guid: b71d608ef3af82f48a5deb1a0aa6a3da, type: 3}
+    info: Bible Page
+  - materialName: Bungisngis Cross Piece
+    price: 0
+    craftQuantity: 0
+    icon: {fileID: 21300000, guid: 0758b8c2ca9f1ac4385dfd06b1b05358, type: 3}
+    info: This piece can obtain by completing the clearing of bungisngis Fortress 
+      in Balete Drive. Complete all the pieces to get you home.
+  - materialName: Nuno Cross Piece
+    price: 0
+    craftQuantity: 0
+    icon: {fileID: 21300000, guid: 0b800f3e92f62264c83d067c53b66673, type: 3}
+    info: This piece can obtain by scaping Nuno Cave in Balete Drive. Complete all
+      the pieces to get you home.
+  - materialName: White Lady Cross Piece
+    price: 0
+    craftQuantity: 0
+    icon: {fileID: 21300000, guid: dbf570c2dce44b244b61f5d7ff9985f5, type: 3}
+    info: This piece can obtain by clearing the Kapre Fortress in Vista Verde. Complete
+      all the pieces to get you home.
+  - materialName: Kapre Cross Piece
+    price: 0
+    craftQuantity: 0
+    icon: {fileID: 21300000, guid: 24deff9ed12a7c1458b93c74c74d6c4b, type: 3}
+    info: This piece can obtain by clearing the Kapre Fortress in Vista Verde. Complete
+      all the pieces to get you home.
+  - materialName: Tiyanak Cross Piece
+    price: 0
+    craftQuantity: 0
+    icon: {fileID: 21300000, guid: aeda872d119c49a489e035272053b5f4, type: 3}
+    info: This piece can obtain by finding Tiyanak
+  - materialName: Tiktik Cross Piece
+    price: 0
+    craftQuantity: 0
+    icon: {fileID: 21300000, guid: 41b9b2cc544ca4e47b5d1bb2ad889a29, type: 3}
+    info: This piece can obtain by defeating King Tiktik
+  - materialName: Tikbalang Cross Piece
+    price: 0
+    craftQuantity: 0
+    icon: {fileID: 21300000, guid: 0c9491a49e365c04894d81a7818a55a9, type: 3}
+    info: This piece can obtain by Taming Tikbalang
+  - materialName: Manananggal Cross Piece
+    price: 0
+    craftQuantity: 0
+    icon: {fileID: 21300000, guid: fa0bf8a42b8821f4692d91c7d2461e77, type: 3}
+    info: This piece can obtain by defeating Queen Manananggal
+  - materialName: Batibat Cross Piece
+    price: 0
+    craftQuantity: 0
+    icon: {fileID: 21300000, guid: 4437f9d401abdeb4e9fc88745e616317, type: 3}
+    info: This piece can obtain by escaping Batibat fortress
+  - materialName: Gulugod ng Tikbalang
+    price: 15
+    craftQuantity: 0
+    icon: {fileID: 21300000, guid: 055b3f3b7417ef0409a4c0da1295622d, type: 3}
+    info: 
+  - materialName: Orb
+    price: 0
+    craftQuantity: 0
+    icon: {fileID: 21300000, guid: b33955ac9a2e2854697d2fb70b48a297, type: 3}
+    info: 
+  - materialName: Sibuyas
+    price: 0
+    craftQuantity: 0
+    icon: {fileID: 21300000, guid: 801122abed5bd8845804cf69aba1aa9c, type: 3}
+    info: 
+  - materialName: Salt
+    price: 10
+    craftQuantity: 0
+    icon: {fileID: 21300000, guid: c632282c0c229474a824aaf687b2ae9f, type: 3}
+    info: 
+  - materialName: Baseball Bat
+    price: 400
+    craftQuantity: 0
+    icon: {fileID: 21300000, guid: 327f51583e8f11942b99773579928aa4, type: 3}
+    info: 
+  - materialName: Batuta
+    price: 350
+    craftQuantity: 0
+    icon: {fileID: 21300000, guid: b63280e1dc215ed428622ba238d1dd97, type: 3}
+    info: 

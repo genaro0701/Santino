@@ -1,1 +1,1 @@
-# Santino
+# Santino is interactive fiction, Finding the best way to get out of those horrible monsters for you to go back home. You must survive and hold your grip tight to finish all the stages. This is a horror and adventure game on a 2D platform. This is a mobile-type game. The game is inspired by the Filipino animated series “Trese”.
