@@ -1,8 +1,6 @@
-
-![Logo](https://lh3.googleusercontent.com/drive-viewer/AFGJ81rhd2FBcZIdOvGGOZIvDhiFV9Tb8Www4F0tBMeQJmxQBzOP7WtCpQzUf79aWOYf2iI7p2ShY3tYTV_4YH6C-tKz_AD7Qg=w1680-h953)
-
-
 # SANTINO BY GRAPHOS
+
+[![Watch the video](https://i.ytimg.com/vi/VJOb7IHt5eo/hqdefault.jpg)](https://www.youtube.com/watch?v=VJOb7IHt5eo&list=PLvyLeWppLAUwxHKxGmxiVsDGbY5O0196r&ab_channel=TalkAboutI.T.)
 
 Santino is interactive fiction, Finding the best way to get out of those horrible monsters for you to go back home. You must survive and hold your grip tight to finish all the stages. This is a horror and adventure game on a 2D platform. This is a mobile-type game. The game is inspired by the Filipino animated series “Trese”.
 
